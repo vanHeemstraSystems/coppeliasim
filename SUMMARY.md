@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Knowledge Management](README.md)
+* [Simulation Management](README.md)
