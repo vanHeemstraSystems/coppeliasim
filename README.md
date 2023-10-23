@@ -1,4 +1,4 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/knowledge-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/knowledge-management/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/simulation-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/simulation-management/actions/workflows/publish.yml)
 
 simulation-management
 # Simulation Management
